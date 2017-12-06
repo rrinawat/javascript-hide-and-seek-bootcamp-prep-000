@@ -8,5 +8,5 @@ function nestedTarget(){
 }
 //iterate down to the deepest child
 function deepestChild(){
-   const allChildren= document.querySelectorAll('#grand-node div div div div')
+   return allChildren= document.querySelectorAll('#grand-node div div div div')
 }
